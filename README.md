@@ -5,7 +5,9 @@
 - 🔭 Atualmente trabalho na Sicredi Araxingu como Líder Técnica em um time de jovens talentos
 - 💬 Me pergunte sobre **SQL, Python, Pentaho PDI, Power BI, Excel, PostgreSQL, JasperIreport**
 - 📫 Você me acha **rafael.penhalemos@gmail.com**
-- 📄 Sobre minhas experiências [https://www.linkedin.com/in/rafael-penha-lemos-33119187/](https://www.linkedin.com/in/rafael-penha-lemos-33119187/)
+- 📄 Sobre minhas experiências **Líder de Inteligência de Negócios com vasta experiência em transformar dados em insights estratégicos. Responsável pela gestão de equipe, desenvolvimento de dashboards interativos e suporte técnico. Expert em ferramentas de BI como Power BI, Pentaho PDI com habilidades em análise de dados, gestão de projetos e comunicação eficaz. Capaz de motivar e dirigir equipes, garantindo a entrega de projetos no prazo e dentro do orçamento. Apaixonado por promover um ambiente colaborativo e impulsionar a tomada de decisões informadas.**
+
+-[https://www.linkedin.com/in/rafael-penha-lemos-33119187/](https://www.linkedin.com/in/rafael-penha-lemos-33119187/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
