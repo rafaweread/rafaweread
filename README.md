@@ -2,11 +2,9 @@
 <h3 align="center">Sou apaixonado por tecnologia, desenvolvimento de software e inovação. Trabalhando com algumas linguagens de programação e linguagem de banco de dados, como Python e SQL voltadas para análises de dados.</h3>
 
 - 🌱 No momento estou aprendendo **Databricks e Machine Learning**
-
+- 🔭 Atualmente trabalho na Sicredi Araxingu como Líder Técnica em um time de jovens talentos
 - 💬 Me pergunte sobre **SQL, Python, Pentaho PDI, Power BI, Excel, PostgreSQL, JasperIreport**
-
 - 📫 Você me acha **rafael.penhalemos@gmail.com**
-
 - 📄 Sobre minhas experiências [https://www.linkedin.com/in/rafael-penha-lemos-33119187/](https://www.linkedin.com/in/rafael-penha-lemos-33119187/)
 
 <h3 align="left">Connect with me:</h3>
