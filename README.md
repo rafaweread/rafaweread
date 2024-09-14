@@ -1,5 +1,5 @@
 <h3 align="left">Olá 👋, bem vindo(a)!</3>
-<h3 align="center">Sou apaixonado por tecnologia e inovação.</h3>
+<h3 align="center"></h3>
 
 - 🌱 No momento estou aprendendo **Databricks e Machine Learning**
 - 🔭 Atualmente trabalho na **Sicredi Araxingu** como Líder Técnica em um time de jovens talentos
