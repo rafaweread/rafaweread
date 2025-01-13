@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🌱 No momento estou aprendendo **Databricks e Machine Learning**
-- 🔭 Atualmente trabalho na **Sicredi Araxingu** como Líder Técnica em um time de jovens talentos
+- 🔭 Atualmente trabalho na **Grupo Matos** como Líder Técnica em um time de jovens talentos
 - 💬 Me pergunte sobre **SQL, Python, Pentaho PDI, Power BI, Excel, PostgreSQL, JasperIreport**
 - 📫 Você me acha **rafael.penhalemos@gmail.com**
 
