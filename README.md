@@ -11,7 +11,6 @@ Líder de Inteligência de Negócios com vasta experiência em transformar dados
 
 
 
-
 <h3 align="left">
   Entre em contato comigo: ⤵️
 </h3>
