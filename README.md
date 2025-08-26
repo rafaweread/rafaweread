@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - 🌱 No momento estou aprendendo **Databricks e Machine Learning**
-- 🔭 Atualmente trabalho na **Grupo Matos** como Líder técnico em um time de jovens talentos
+- 🔭 Atualmente trabalho na **Sicredi Integração MT / AP / PA** como Assessor de Planejamento Estratégico
 - 💬 Me pergunte sobre **SQL, Python, Pentaho PDI, Power BI, Excel, PostgreSQL, JasperIreport**
 
 - 💡 **Conheça mais sobre mim**
